@@ -12,13 +12,13 @@ The repository contains exercises P1 to P13.
 ---
 
 ## P1
-![P1.png](https://github.com/raizen5531/Lab-I/blob/main/P1.png)
+![P1.png](https://github.com/raizen5531/Lab-I/blob/main/P01/P01.png)
 
 ## P2
-![P2.png](https://github.com/raizen5531/Lab-I/blob/main/P2.png)
+![P2.png](https://github.com/raizen5531/Lab-I/blob/main/P02/P02.png)
 
 ## P3
-![P3.png](https://github.com/raizen5531/Lab-I/blob/main/P3.png)
+![P3.png](https://github.com/raizen5531/Lab-I/blob/main/P03/P03.png)
 
 ## P4 - divided into a, b, c
 
@@ -26,19 +26,19 @@ The repository contains exercises P1 to P13.
 
 Attaching local git to the remote repository.
 
-![P4-a](https://github.com/raizen5531/Lab-I/blob/main/P4a.png)
+![P4-a](https://github.com/raizen5531/Lab-I/blob/main/P04/P04a.png)
 
 ### P4 - B
 
 Creating version tag using Github.
 
-![P4-b](https://github.com/raizen5531/Lab-I/blob/main/P4b.png)
+![P4-b](https://github.com/raizen5531/Lab-I/blob/main/P04/P04b.png)
 
 ### P4 - C
 
 Version tag created successfully.
 
-![P4-c](https://github.com/raizen5531/Lab-I/blob/main/P4c.png)
+![P4-c](https://github.com/raizen5531/Lab-I/blob/main/P04/P04c.png)
 
 
 ## Author
