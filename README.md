@@ -12,7 +12,7 @@ The repository contains exercises P1 to P13.
 - CSS
 - Git
 - Github
-
+---
 
 ## P1
 ---
@@ -26,7 +26,7 @@ The repository contains exercises P1 to P13.
 ## P4 - divided into a, b, c
 ---
 
-
 ## Author
 ---
 Aatman Shanker
+---
