@@ -1,5 +1,4 @@
 
-/* GENERAL STYLING */
 
 * {
     margin: 0px;
@@ -11,8 +10,6 @@ body {
     background-color: rgb(255,255,235);
 }
 
-
-/* HEADER */
 
 header {
     text-align: center;
@@ -43,7 +40,7 @@ hr {
 }
 
 
-/* NAVIGATION */
+
 
 .nav-list {
     display: grid;
@@ -63,7 +60,7 @@ hr {
 }
 
 
-/* MAIN CONTAINER */
+
 
 main {
     margin: 20px 0px;
@@ -71,7 +68,7 @@ main {
 }
 
 
-/* THREE-COLUMN GRID */
+
 
 .news-column {
     display: grid;
@@ -81,7 +78,7 @@ main {
 }
 
 
-/* FIRST AND SECOND COLUMNS */
+
 
 .news-column > section.news-rows {
     display: grid;
@@ -93,7 +90,7 @@ main {
 }
 
 
-/* GENERAL NEWS CARDS */
+
 
 .news-card {
     padding: 20px;
@@ -132,7 +129,7 @@ main {
 }
 
 
-/* BUTTONS */
+
 
 .read-more {
     background-color: #000000;
@@ -206,7 +203,7 @@ aside.news-rows img {
 }
 
 
-/* TODAY'S BRIEFING */
+
 
 .briefing {
     padding: 20px;
@@ -236,7 +233,7 @@ aside.news-rows img {
 }
 
 
-/* OPINION SECTION */
+
 
 .opinion {
     padding: 20px;
@@ -268,7 +265,7 @@ aside.news-rows img {
 }
 
 
-/* FOOTER */
+
 
 footer {
     text-align: center;
@@ -281,7 +278,7 @@ footer p {
 }
 
 
-/* TABLET RESPONSIVENESS */
+
 
 @media (max-width: 900px) {
 
@@ -303,8 +300,6 @@ footer p {
 
 }
 
-
-/* MOBILE RESPONSIVENESS */
 
 @media (max-width: 600px) {
 
